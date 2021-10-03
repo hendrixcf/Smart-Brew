@@ -13,11 +13,11 @@ Finished Structure.jpg: The structure was completed on 9/11/2021.
 
 French Press.jpg: A standard stainless steel French press used in the design. 
 
-Linear Actuator Mechanism.mov: A linear actuator was attached to a blast gate. This component will sit between the coffee grinder and brew chamber and will be used to prevent coffee grinds from falling into the brew chamber. This will also prevent water vapor from rising into the coffee storage compartment.
+https://youtu.be/F17w-KNOAoU:  A linear actuator was attached to a blast gate. This component will sit between the coffee grinder and brew chamber and will be used to prevent coffee grinds from falling into the brew chamber. This will also prevent water vapor from rising into the coffee storage compartment.
 
 Metal Cutting. Jpg:  The French press was cut in half using a band saw. (7/8/2021)
 
-Motorized Grinder Test.mov: A dc motor salvaged from a hand drill was attached to a coffee grinder.
+https://youtu.be/6Eav8BD44AI: A dc motor salvaged from a hand drill was attached to a coffee grinder.
 
 Pipe Nipple.jpg: A 3/8’ stainless steel pipe nipple will be welded to the bottom of French press.
 
