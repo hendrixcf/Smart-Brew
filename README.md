@@ -1,7 +1,7 @@
 # Smart-Brew
 ''Smart Brew" is an IOS app-controlled coffee maker that provides users the capability to set water temperature, coffee bean amount, steep time, and brew time
 
-Coffee Grinder.jpg: The DC motor is enclosed in PVC pipe and is attached to coffee grinder.
+Coffee Grinder.jpg: The DC motor is enclosed in PVC pipe and is attached to a coffee grinder.
 
 Completed Welding.jpg: The pipe nipple was successfully welded to the bottom of a French press. (6/11/2021)
 
