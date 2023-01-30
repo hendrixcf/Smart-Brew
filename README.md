@@ -72,3 +72,6 @@ Unpainted Structure: Completed on 8/8/2021.
 
 Finished Structure.jpg: The structure was completed on 9/11/2021.
 ![](https://github.com/hendrixcf/Smart-Brew/blob/main/Finished%20Structure.jpg)
+
+Coffee maker was completed on 4/26/2022.
+![IMG_4029](https://user-images.githubusercontent.com/91627032/215590828-7428fe04-3a85-4e07-bf42-8e8d510da869.jpg)
