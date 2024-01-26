@@ -1,5 +1,5 @@
 # Smart-Brew
-''Smart-Brew" is an app-controlled coffee maker that provides users the capability to set water temperature, coffee bean amount, steep time, and brew time.
+"Smart-Brew" is an app-controlled coffee maker that provides users the capability to set water temperature, coffee-to-water ratio, steep time, and brew time.
 
 Smart Brew Model.jpg: A basic model of the coffee maker was designed in 3D Builder. (6/01/2021)
 ![](https://github.com/hendrixcf/Smart-Brew/blob/main/Smart%20Brew%20Model.jpg)
